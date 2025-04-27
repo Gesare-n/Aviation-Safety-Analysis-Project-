@@ -114,7 +114,7 @@ To identify the **lowest risk aircraft**, we focused on:
 ![Screenshot 2025-04-27 164528](https://github.com/user-attachments/assets/ec598291-a22c-46ec-92f2-23aba8777fda)
 
 **PDF:**  
-[Presentation PDF]()
+[Presentation PDF](https://drive.google.com/file/d/1-4zmo5qZMo_fa9K661NjWhLBYGjWHNWd/view?usp=sharing)
 
 
 
