@@ -95,5 +95,33 @@ To identify the **lowest risk aircraft**, we focused on:
 - Assumes each `Event.Id` represents a unique flight
 - Lacks flight count data, so some rates are based on assumptions
 
+  ##   Presentation
+  
+![Screenshot 2025-04-27 163843](https://github.com/user-attachments/assets/6b3700ed-d00a-4f4d-b5d2-41b1128b1ffc)
+![Screenshot 2025-04-27 163911](https://github.com/user-attachments/assets/183f1f8f-acbf-4542-9484-74062ac6cadb)
+![Screenshot 2025-04-27 163933](https://github.com/user-attachments/assets/b39fbfd5-083f-43d9-9a89-2cf3c6652013)
+![Screenshot 2025-04-27 163951](https://github.com/user-attachments/assets/bab6456a-3f8c-4761-8bda-544693684462)
+![Screenshot 2025-04-27 164014](https://github.com/user-attachments/assets/59bf6a49-7e26-4eb7-ac8d-b1848115552a)
+![Screenshot 2025-04-27 164034](https://github.com/user-attachments/assets/ae53f16e-8e22-475e-a236-816e2997e592)
+![Screenshot 2025-04-27 164121](https://github.com/user-attachments/assets/febd8810-82c6-4557-848d-81a00ec22a27)
+![Screenshot 2025-04-27 164143](https://github.com/user-attachments/assets/81c3b791-8619-42af-9f5c-b51717707cf1)
+![Screenshot 2025-04-27 164205](https://github.com/user-attachments/assets/c1768fde-c041-4552-8710-abfe43fe55d0)
+![Screenshot 2025-04-27 164314](https://github.com/user-attachments/assets/be000440-7998-467a-9a9c-cad9184cbe32)
+![Screenshot 2025-04-27 164337](https://github.com/user-attachments/assets/10cca1a6-34a2-4df5-baa9-71f0c67a8f89)
+![Screenshot 2025-04-27 164410](https://github.com/user-attachments/assets/e8455570-403b-4659-ba45-54a0415513a5)
+![Screenshot 2025-04-27 164443](https://github.com/user-attachments/assets/9d80387e-fd97-46e2-868b-d82a3343e4ca)
+![Screenshot 2025-04-27 164508](https://github.com/user-attachments/assets/61cfc445-3463-4324-a49c-76e14bff2688)
+![Screenshot 2025-04-27 164528](https://github.com/user-attachments/assets/ec598291-a22c-46ec-92f2-23aba8777fda)
+
+**PDF:**  
+[Presentation PDF]()
+
+
+
+
+
+
+
+
 ---
 
