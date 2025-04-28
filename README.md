@@ -8,7 +8,7 @@
 A company is interested in purchasing aircraft for commercial and private use but lacks insight into the potential risks associated with different airplane models. This analysis was conducted to determine low-risk aircraft and recommend actionable strategies for risk mitigation.
 
  **Dashboard:**  
-[Tableau Dashboard – Aviation Safety Analysis]()
+[Tableau Dashboard – Aviation Safety Analysis](https://public.tableau.com/views/version1aviationanalysis1/AirplanesAnalysisDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
  **Data Source:** `cleaned_AviationData.csv`  
  **Tools Used:** Tableau, Visual Studio Code  
