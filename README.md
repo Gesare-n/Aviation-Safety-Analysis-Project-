@@ -10,6 +10,9 @@ A company is interested in purchasing aircraft for commercial and private use bu
  **Dashboard:**  
 [Tableau Dashboard – Aviation Safety Analysis](https://public.tableau.com/views/version1aviationanalysis1/AirplanesAnalysisDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+![Screenshot 2025-04-28 114102](https://github.com/user-attachments/assets/cebe1598-49d5-453c-94d9-b0d8349ae353)
+
+
  **Data Source:** `cleaned_AviationData.csv`  
  **Tools Used:** Tableau, Visual Studio Code  
  **Skills Applied:** Data Cleaning, Exploratory Data Analysis, Data Visualization
